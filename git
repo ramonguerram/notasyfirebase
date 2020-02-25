@@ -1,0 +1,42 @@
+7[?47h[27m[24m[0m[H[J[30;1H"C:/Users/vendedor 1/Desktop/Ionic4FireBase-master/.git/COMMIT_EDITMSG" [converted][unix] 70L, 2679C[2;1H[1m[36m# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch [0m[1m[31mmaster[0m
+[1m[36m#
+# Initial commit
+#
+# [0m[1m[34mChanges to be committed:[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  .gitignore[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  angular.json[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  browserslist[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  e2e/protractor.conf.js[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  e2e/src/app.e2e-spec.ts[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  e2e/src/app.po.ts[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  e2e/tsconfig.json[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  git[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  ionic.config.json[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  karma.conf.js[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  package-lock.json[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  package.json[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  src/app/add-note/add-note-routing.module.ts[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  src/app/add-note/add-note.module.ts[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  src/app/add-note/add-note.page.html[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  src/app/add-note/add-note.page.scss[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  src/app/add-note/add-note.page.spec.ts[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  src/app/add-note/add-note.page.ts[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  src/app/app-routing.module.ts[0m
+[1m[7mC:/Users/vendedor 1/Desktop/Ionic4FireBase-master/.git/COMMIT_EDITMSG [unix] (09:53 25/02/2020)                1,0-1 Top[1;1H[0m[30;110H~@k[1;1H[30;110H   [2;1H[29;112H[1m[7m  2,[2;1H[0m[30;110H~@k[2;1H[30;110H   [3;1H[29;114H[1m[7m3[3;1H[0m[30;110H~@k[3;1H[30;110H   [4;1H[29;114H[1m[7m4[4;1H[0m[30;110H~@k[4;1H[30;110H   [5;1H[29;114H[1m[7m5[5;1H[0m[30;110H~@k[5;1H[30;110H   [6;1H[29;114H[1m[7m6[6;1H[0m[30;110H^M[6;1H[30;110H  [7;1H[29;114H[1m[7m7[7;1H[0m[30;110H~@k[7;1H[30;110H   [6;1H[29;114H[1m[7m6[6;1H[0m[30;110H~@k[6;1H[30;110H   [5;18H[29;113H[1m[7m5,18[5;18H[0m[30;110H^V[5;18H[30;110H1x1[5;18H[30;1H[1m-- VISUAL BLOCK --[0m[30;20H[K[30;110H1x1[5;18H[30;110H^V [5;18H[30;110H  [5;18H[30;1H[K[5;18H[30;110H^V[5;18H[30;110H1x1[5;18H[30;1H[1m-- VISUAL BLOCK --[0m[30;110H[K[30;110H1x1[5;18H[30;110HC  [5;18H[30;110H [5;18H[30;4H[1mINSERT --[0m[30;13H[K[5;18H[K[29;70H[1m[7m[+] [unix] (09:53 25/02/2020)[5;18H[0m[1m[31mc[0m[29;116H[1m[7m9[5;19H[0m[1m[31ma[0m[29;115H[1m[7m20[5;20H[0m[1m[31mq[0m[29;116H[1m[7m1[5;21H[0m[1m[31md[0m[29;116H[1m[7m2[5;22H[0m[1m[31mq[0m[29;116H[1m[7m3[5;23H[0m[1m[31mw[0m[29;116H[1m[7m4[5;24H[0m[1m[31md[0m[29;116H[1m[7m5[5;25H[0m[1m[31ms[0m[29;116H[1m[7m6[5;26H[0m[1m[31ma[0m[29;116H[1m[7m7[5;27H[0m[1m[31md[0m[29;116H[1m[7m8[5;28H[0m[1m[31mq[0m[29;116H[1m[7m9[5;29H[29;113H 6,2[6;2H[29;113H7,17[7;17H[29;113H 8,2[8;2H[29;113H9,27[9;27H[29;109H10,23-29[10;29H[29;110H1[11;29H[29;110H2[12;29H[29;110H3[13;29H[29;110H4[14;29H[29;110H5[15;29H[29;110H6[16;29H[29;110H7,18-24[17;24H[29;110H8,23-29[18;29H[29;110H9[19;29H[29;109H20[20;29H[29;110H1[21;29H[29;110H2[22;29H[29;110H3[23;29H[0m[30;1H
+[28;1H[L[28;1H[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  src/app/app.component.html[0m[29;110H[1m[7m4[7C 2%[23;29H[0m[30;1H
+[28;1H[L[28;1H[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  src/app/app.component.scss[0m[29;110H[1m[7m5[8C4[23;29H[0m[30;1H
+[28;1H[L[28;1H[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  src/app/app.component.spec.ts[0m[29;110H[1m[7m6[8C7[23;29H[0m[30;1H
+[28;1H[L[28;1H[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  src/app/app.component.ts[0m[29;110H[1m[7m7[8C9[23;29H[0m[30;1H
+[28;1H[L[28;1H[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  src/app/app.module.ts[0m[29;110H[1m[7m8[7C11[23;29H[0m[30;1H
+[28;1H[L[28;1H[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  src/app/home/home.module.ts[0m[29;110H[1m[7m9[8C4[23;29H[0m[30;1H
+[28;1H[L[28;1H[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  src/app/home/home.page.html[0m[29;109H[1m[7m30[8C6[23;29H[0m[30;1H
+[28;1H[L[28;1H[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  src/app/home/home.page.scss[0m[29;110H[1m[7m1[8C9[23;29H[0m[30;1H
+[28;1H[L[28;1H[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  src/app/home/home.page.spec.ts[0m[29;110H[1m[7m2[7C21[23;29H[0m[30;1H
+[28;1H[L[28;1H[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  src/app/home/home.page.ts[0m[29;110H[1m[7m3[8C3[23;29H[0m[30;1H
+[28;1H[L[28;1H[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  src/app/modal/Note.ts[0m[29;110H[1m[7m4[8C6[23;29H[0m[30;1H
+[28;1H[L[28;1H[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  src/app/services/firebase.service.spec.ts[0m[29;110H[1m[7m5[8C8[23;29H[0m[30;1H
+[28;1H[L[28;1H[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  src/app/services/firebase.service.ts[0m[29;110H[1m[7m6[7C30[23;29H[0m[30;1H
+[28;1H[L[28;1H[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  src/app/update-note/update-note-routing.module.ts[0m[29;110H[1m[7m7[8C3[23;29H[29;110H6[22;29H[29;110H5[21;29H[29;110H4[20;29H[29;110H3[19;29H[29;110H2[18;29H[29;110H1[17;29H[29;110H0[16;29H[29;109H29[15;29H[29;110H8[14;29H[29;110H7[13;29H[29;110H6[12;29H[29;110H5[11;29H[29;110H4[10;29H[29;110H3[9;29H[29;110H2[8;29H[29;110H1[7;29H[29;110H0[6;29H[0m[28;1H[M[1;1H[L[1;1H[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  e2e/src/app.e2e-spec.ts[0m[29;109H[1m[7m19[8C0[6;29H[0m[1m[35mxnf.js[0m[29;113H[1m[7m4-30[6;30H[0m[1m[35manf.js[0m[29;113H[1m[7m5-31[6;31H[0m[1m[35mxnf.js[0m[29;113H[1m[7m6-32[6;32H[0m[1m[35msnf.js[0m[29;113H[1m[7m7-33[6;33H[0m[1m[35mdnf.js[0m[29;113H[1m[7m8-34[6;34H[0m[1m[35manf.js[0m[29;113H[1m[7m9-35[6;35H[0m[1m[35msnf.js[0m[29;112H[1m[7m30-36[6;36H[0m[1m[35mdnf.js[0m[29;113H[1m[7m1-37[6;37H[0m[1m[35manf.js[0m[29;113H[1m[7m2-38[6;38H[0m[1m[35mdnf.js[0m[29;113H[1m[7m3-39[6;39H[0m[1m[35mxnf.js[0m[29;113H[1m[7m4-40[6;40H[0m[1m[35manf.js[0m[29;113H[1m[7m5-41[6;41H[0m[1m[35msnf.js[0m[29;113H[1m[7m6-42[6;42H[0m[1m[35manf.js[0m[29;113H[1m[7m7-43[6;43H[0m[1m[35msnf.js[0m[29;113H[1m[7m8-44[6;44H[0m[1m[35mdnf.js[0m[29;113H[1m[7m9-45[6;45H[0m[1m[35m nf.js[0m[29;112H[1m[7m40-46[6;46H[0m[1m[35manf.js[0m[29;113H[1m[7m1-47[6;47H[0m[1m[35msnf.js[0m[29;113H[1m[7m2-48[6;48H[0m[1m[35mdnf.js[0m[29;113H[1m[7m3-49[6;49H[0m[1m[35msnf.js[0m[29;113H[1m[7m4-50[6;50H[0m[1m[35manf.js[0m[29;113H[1m[7m5-51[6;51H[0m[1m[35mdnf.js[0m[29;113H[1m[7m6-52[6;52H[0m[1m[35m nf.js[0m[29;113H[1m[7m7-53[6;53H[0m[1m[35manf.js[0m[29;113H[1m[7m8-54[6;54H[0m[1m[35msnf.js[0m[29;113H[1m[7m9-55[6;55H[0m[1m[35mdnf.js[0m[29;112H[1m[7m50-56[6;56H
